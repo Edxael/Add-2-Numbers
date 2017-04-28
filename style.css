@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(182, 250, 248);
+    text-align: center;
+}
+
+
+
+.Top{
+    background-color: rgb(98, 228, 142);
+    border: 2px solid black;
+    margin: 15px auto;
+    width: 50vw;
+}
+
+
+.Main{
+    background-color: rgb(162, 145, 246);
+    font-style: oblique;
+    font-weight: bolder;
+    border: 2px solid black;
+    margin: 0px auto;
+    width: 50vw;
+    padding: 15px 0px;
+}
+
+
+.input1{
+    /*background-color: rgb(250, 247, 52);*/
+    /*padding-left: 10px;*/
+    text-align: center;
+}
+
+.input2{
+    background-color: rgb(250, 247, 52);
+    text-align: center;
+}
